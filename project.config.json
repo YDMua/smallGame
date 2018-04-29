@@ -10,7 +10,8 @@
 	"compileType": "game",
 	"libVersion": "game",
 	"appid": "touristappid",
-	"projectname": "yid-game",
+	"projectname": "%E5%B0%8F%E6%B8%B8%E6%88%8F",
+	"isGameTourist": true,
 	"condition": {
 		"search": {
 			"current": -1,
@@ -28,6 +29,5 @@
 			"current": -1,
 			"list": []
 		}
-	},
-	"isGameTourist": true
+	}
 }
